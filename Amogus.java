@@ -63,7 +63,7 @@ Amogus te = new Amogus();
       
       //Text to Panel
       jP.add(jTA); jP.add(jTF); jP.add(jTF2); 
-      //Labels to Panels
+      //Labels to Panel
       jP.add(jLA); jP.add(jLCB); jP.add(jL); jP.add(jL2); 
       //Buttons to Panel
       jP.add(jB); jP.add(jB2);
