@@ -1,0 +1,27 @@
+package main;
+public class Person {
+String firstname;
+String lastname;
+char sex;
+int age;
+Person(String firstname,String lastname, char sex, int age){
+this.firstname = firstname;
+this.lastname = lastname;
+this.sex = sex;
+this.age= age;
+}
+}
+
+
+
+
+
+
+package main;
+public class Main {
+public static void main(String[] args) {
+// TODO code application logic here
+Person p = new Person(&quot;rodel&quot;, &quot;delafuente&quot;, &#39;m&#39;, 44);
+System.out.println(p.firstname);
+}
+}
