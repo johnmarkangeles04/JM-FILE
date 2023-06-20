@@ -21,7 +21,7 @@ package main;
 public class Main {
 public static void main(String[] args) {
 // TODO code application logic here
-Person p = new Person(&quot;rodel&quot;, &quot;delafuente&quot;, &#39;m&#39;, 44);
+Person p = new Person("rodel", "delafuente", "m", 44);
 System.out.println(p.firstname);
 }
 }
